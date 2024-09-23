@@ -1,16 +1,4 @@
-# flutter_application_1
+Кондрашов Денис ЭФБО-02-22 Практика №2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/ecbd52d7-9ae5-4460-acf8-2d6d58089145)
+![image](https://github.com/user-attachments/assets/6b97584e-fb05-4079-9dd3-126c69b7c4fe)
